@@ -11,9 +11,9 @@ This demo accompanies the poster presentation "Limitations of the entropy measur
 
 This repository contains a Jupyter Notebook with the main flow, a paired Python file, and a Python file (`tools.py`) with the functions used in the notebook. Additionally, if you work with Poetry, you can use the dependency files (`poetry.lock` and `pyproject.toml`) to synchronise your Python 3.10 interpreter.
 
-Check it out on [Google Colab](https://colab.research.google.com/drive/1NtwOvY58SYT7YkIwEFMm2_XBR1zMJp7U?usp=sharing)
+Check it out on [Google Colab](https://colab.research.google.com/drive/1NtwOvY58SYT7YkIwEFMm2_XBR1zMJp7U?usp=sharing){:target="_blank"}
 
 In the `/poster_and_abstract` folder, you'll find (as expected) the poster and abstract which were presented on CLIN32.
 
-- [Abstract on CLIN32 website](https://clin2022.uvt.nl/limitations-of-the-entropy-measure-in-n-gram-language-modelling/)
-- [UCLL Research & Expertise](https://research-expertise.ucll.be/)
+- [Abstract on CLIN32 website](https://clin2022.uvt.nl/limitations-of-the-entropy-measure-in-n-gram-language-modelling/){:target="_blank"}
+- [UCLL Research & Expertise](https://research-expertise.ucll.be/){:target="_blank"}
